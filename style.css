@@ -75,8 +75,9 @@ body {
     h1{
         font-weight: 400;
     }
-    h4{
+    .location{
         color: var(--green);
+        font-weight: 700;
     }
     p{
         margin-top:14px;
